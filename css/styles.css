@@ -1,0 +1,32 @@
+/* About Treemap css */
+#aboutTreemapContainer{
+  position: relative;
+  height: 600px;
+
+}
+.treemapNode {
+  position: absolute;
+  background-size:cover;
+  border-radius: 4px;
+}
+.treemapNode:hover{
+  opacity:0.8;
+  cursor:pointer;
+}
+.selectedTreemapNodeText {
+  font-size:1rem;
+  margin-bottom: 0px;
+}
+
+.hiddenTreemapNode{
+  opacity: 0;
+}
+.hiddenTreemapNode:hover{
+  opacity: 0;
+}
+.selectedTreemapNode{
+  border-radius: 4px;
+}
+.selectedTreemapNode:hover{
+  cursor:pointer;
+}
