@@ -5,8 +5,7 @@ https://bl.ocks.org/shimizu/79409cca5bcc57c32ddae0a5f0a1a564
 **/
 
 let treemapWidth = 1200,
-  treemapHeight = 600,
-  transitioning;
+  treemapHeight = 600
 
 // sets x and y scale to determine size of visible boxes
 let x = d3.scaleLinear()
