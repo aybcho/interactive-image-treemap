@@ -8,4 +8,4 @@ and shimzu's
 
 For a working demo of this repo, check out https://aybcho.github.io/interactive-image-treemap/.
 
-Please feel free to use it at will with attribution of source.
+Please feel free to use at will with attribution of source.
