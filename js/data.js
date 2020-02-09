@@ -10,7 +10,7 @@ let treemapData = [
   {
     id:'images.Fish',
     value: '3000',
-    desc:'Pictures of Fish',
+    desc:'Fish',
     width: '1920',
     height:'1080',
     dir: './images/fish.jpg'
@@ -18,7 +18,7 @@ let treemapData = [
   {
     id:'images.Flowers',
     value: '3000',
-    desc:'Pictures of Flowers',
+    desc:'Flowers',
     width: '1920',
     height:'1080',
     dir: './images/flowers.jpg'
@@ -26,7 +26,7 @@ let treemapData = [
   {
     id:'images.GoldenGateBridge',
     value: '3000',
-    desc:'Pictures of the Golden Gate Bridge',
+    desc:'The Golden Gate Bridge',
     width: '1920',
     height:'1080',
     dir: './images/goldengatebridge.jpg'
@@ -34,7 +34,7 @@ let treemapData = [
   {
     id:'images.GreatWall',
     value: '3000',
-    desc:'Pictures of the Great Wall',
+    desc:'The Great Wall',
     width: '1920',
     height:'1080',
     dir: './images/greatwall.jpg'
@@ -42,7 +42,7 @@ let treemapData = [
   {
     id:'images.Mountains',
     value: '3000',
-    desc:'Pictures of mountains',
+    desc:'Mountains',
     width: '1920',
     height:'1080',
     dir: './images/mountains.jpg'
@@ -50,7 +50,7 @@ let treemapData = [
   {
     id:'images.NewYork',
     value: '3000',
-    desc:'Pictures of New York',
+    desc:'New York',
     width: '1920',
     height:'1080',
     dir: './images/newyork.jpg'
@@ -58,7 +58,7 @@ let treemapData = [
   {
     id:'images.Road',
     value: '3000',
-    desc:'Pictures of some road',
+    desc:'Scenic Road',
     width: '1920',
     height:'1080',
     dir: './images/road.jpg'
@@ -66,7 +66,7 @@ let treemapData = [
   {
     id:'images.Straws',
     value: '3000',
-    desc:'Pictures of Colorful Straws',
+    desc:'Colorful Straws',
     width: '1920',
     height:'1080',
     dir: './images/straws.jpg'
@@ -74,7 +74,7 @@ let treemapData = [
   {
     id:'images.Trees',
     value: '3000',
-    desc:'Pictures of Trees',
+    desc:'Trees',
     width: '1920',
     height:'1080',
     dir: './images/trees.jpg'
