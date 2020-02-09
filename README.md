@@ -1,6 +1,4 @@
-# interactive-image-treemap
-
-#### Interactive image treemap written in D3.js.
+# Interactive image treemap written in D3.js
 
 This implementation was built based on Mike Bostocks's example of a D3 treemap
 [Treemap](https://observablehq.com/@d3/treemap "https://observablehq.com/@d3/treemap")
