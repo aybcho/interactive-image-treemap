@@ -5,8 +5,8 @@ body{
 /* About Treemap css */
 #aboutTreemapContainer{
   position: relative;
-  height: 600px;
-
+  min-height: 600px;
+  box-sizing: border-box;
 }
 .treemapNode {
   position: absolute;
