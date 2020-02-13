@@ -9,3 +9,5 @@ and shimzu's
 For a working demo of this repo, check out https://aybcho.github.io/interactive-image-treemap/.
 
 Please feel free to use at will with attribution of source.
+
+![alt text](https://github.com/aybcho/interactive-image-treemap/blob/master/images/treemap.png "Main Image")
