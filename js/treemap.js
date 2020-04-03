@@ -4,8 +4,16 @@ And also,
 https://bl.ocks.org/shimizu/79409cca5bcc57c32ddae0a5f0a1a564
 **/
 
-let treemapWidth = 1200,
-  treemapHeight = 600
+let screenWidth = screen.width;
+let treemapWidth, treemapHeight;
+if(screenWidth<=500){
+  treemapWidth = screenWidth*0.95;
+  treemapHeight = screenWidth*0.8;
+}else{
+  treemapWidth = screenWidth*0.8;
+  treemapHeight = screenWidth*0.4;
+}
+$('#aboutTreemapContainer').css('min-height', treemapHeight);
 
 // sets x and y scale to determine size of visible boxes
 let x = d3.scaleLinear()
